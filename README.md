@@ -10,7 +10,7 @@
 - ⚡ Fun fact **Edições Adobe em tempos livres**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><a href="https://www.linkedin.com/in/guilherme-reif-1209a7358/" target="_blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
