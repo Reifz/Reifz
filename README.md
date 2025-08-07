@@ -1,7 +1,7 @@
 <h1 align="center">Olá guys, sou o Guilherme Reif 🦉</h1>
 <h3 align="center">Atualmente trabalhando como Full Stack na Wapp.</h3>
 
-- 💬 Neste momento, estudando e formalizando em outros cursos e técnicas como **React, TypeScript, Flutter, Big Data, Tableau e Mongo Db**
+- 💬 Neste momento, estou estudando e me formalizando em outros cursos e técnicas, como React, TypeScript, Flutter, Big Data, Tableau e MongoDB**
 
 - 💬 Meus maiories Dominios **PHP, JavaScript, Python, Mysql, HTML/CSS**
 
